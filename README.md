@@ -1,9 +1,14 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
 Data: 22 DE ABRIL DE 2024
+
 Empresa: ABSTERGO INDUSTRIES
+
 Responsável: ROBERTA DE SIQUEIRA
 
-## Introdução
+---------
+
+## ➡️ Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa ABSTERGO INDUSTRIES, realizado por ROBERTA DE SIQUEIRA. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos, trocando os custos de CAPEX para OPEX.
 
 ## Descrição do Projeto
@@ -33,11 +38,11 @@ A implementação de ferramentas na empresa ABSTERGO INDUSTRIES tem como esperad
 
 ![myestimate](imagens/MyEstimate.png)
 
-*Detalhes da simulação estão no link:* https://calculator.aws/#/estimate?id=fbe1845c8f2dbbc0df64e670e30a33d12cfbd348
+*Detalhes da simulação estão no link:* 
+
+🔗 https://calculator.aws/#/estimate?id=fbe1845c8f2dbbc0df64e670e30a33d12cfbd348
 
 
 --------------------
 
-> Assinatura do Responsável pelo Projeto: 
-
-**_ROBERTA DE SIQUEIRA_**
+> Assinatura do Responsável pelo Projeto:  **_ROBERTA DE SIQUEIRA_**
